@@ -32,8 +32,8 @@ Este proyecto es capaz de monitorear múltiples DEXs (como PancakeSwap, BiSwap) 
 
 1.  Clona este repositorio:
     ```bash
-    git clone [https://github.com/C35D3V/Arbitrium-BOT.git](https://github.com/C35D3V/Arbitrium-BOT.git)
-    cd Arbitrium-BOT
+    git clone [https://github.com/C35D3V/Arbitrium-BOT.git]
+        cd Arbitrium-BOT
     ```
 2.  (Recomendado) Crea un entorno virtual:
     ```bash
