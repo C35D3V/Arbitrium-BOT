@@ -1,0 +1,31 @@
+# Archivos sensibles que NUNCA deben subirse
+*.env
+.env
+.env.*
+
+# Dependencias de Python y caché
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y bases de datos generados por el bot
+logs/
+*.log
+data/
+*.db
+*.db-journal
+
+# Archivos de IDE
+.vscode/
+.idea/
